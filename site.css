@@ -1,0 +1,31 @@
+body 
+{background-color: lightyellow;}
+
+h1 
+{border: solid lightblue; color:purple;font: 4em "Times New Roman", serif;} 
+
+p 
+{color: dodgerblue; font: 1em "Georgia",serif;}
+
+ul {color: royalblue;font: 1em ;} 
+
+.topnav {
+	overflow:hidden;
+}
+.topnav a{
+	color:maroon; 
+	font-size:20px; 
+	padding: 19px 21px; 
+	border-color: black;
+	border-style:solid;
+	border-width: 3px; 
+	margin-right: 5px; 
+	background-color:springgreen;
+} 
+.topnav a:hover {
+	background-color:lightblue ;
+	color: darkblue;
+}
+
+.text {font-size:18px;} 
+
