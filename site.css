@@ -1,0 +1,47 @@
+body {
+background-color: lightyellow;
+background-image: 
+url("https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-creative-badminton-admission-poster-background-image_159336.jpg");
+background-size: cover;
+background-position:center;
+}
+h1 
+{border: solid lightblue; color:purple;font: 4em "Times New Roman", serif;} 
+
+p 
+{color: dodgerblue; font: 1em "Georgia",serif;
+	padding-left: 20px;
+	font-size: 17px;
+}
+ul {color: royalblue;font: 1em ;} 
+
+li:hover {
+	background-color: gray;
+	}
+	 
+li {
+	display: inline;
+	padding: .5em;
+	font-family: "Comic Sans MS",sans-serif;
+	color: plum;
+	width: 175px;
+	background: gold; 
+	font-size: 20px;
+	} 
+
+ul {
+	background: gold; 
+	margin-top: 0px; 
+	padding-inline-start: 0px;
+	padding-bottom: .75em;
+	padding-top: .75em;
+	}
+.current {
+		color: tomato;
+		} 
+
+.image {
+	width: 100%;
+	height: auto; 
+}
+			
