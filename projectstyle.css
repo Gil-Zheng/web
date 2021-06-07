@@ -1,0 +1,84 @@
+header nav {
+	float: right;
+	padding-right: 40px;
+}
+
+#menu li {
+	list-style: none;
+	display: inline-block; 
+
+}
+
+#menu li a {
+	text-decoration: none;
+	position: relative;
+	color: #E8A87C; 
+	font-size: 25px;
+	font-family: "Courier New", monospace;
+	display: block;
+	overflow: hidden;
+	padding: 10px 20px;
+}
+
+#menu li a:hover {
+	color: gray;
+}
+
+
+body:not(#nav-bar) {
+	background-color: #85DCBA;
+	margin: 0px;
+}
+
+header
+{
+	height: 80px;
+	line-height: 20px;
+	position: fixed;
+	width: 100%;
+	background-color: #41B3A3; 
+}
+
+.logo {
+	color: #E8A87C; 
+	font-size: 23px;
+	font-family: "Courier New", monospace;
+	padding-top: 30px;
+	padding-left: 50px;
+	text-decoration: none;
+	display: inline-block;
+	
+}
+
+
+.mainpage {
+	padding-top: 20px;
+	padding-left: 45px;
+}
+
+.mainpage h1 {
+	font-size: 110px;
+	color: #E27D60;
+	margin-bottom: 0px;
+	font-family: Copperplate, Papyrus, fantasy;
+}
+
+.mainpage p {
+	margin-top: 0px;
+	color: #E27D60;
+	font-size: 25px;
+	font-family: Copperplate, Papyrus, fantasy;
+}
+
+.text {
+	color: #C38D9E;
+	margin-left: 40px;
+	margin-top: 10px;
+	margin-right: 20%;
+}
+
+.text p {
+	font-family: Times;
+	line-height: 28px;
+	font-size: 21px;
+}
